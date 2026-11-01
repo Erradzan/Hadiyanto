@@ -1,6 +1,6 @@
 "use client";
 
-import { FaLinkedin, FaWhatsapp } from "react-icons/fa";
+import {  FaWhatsapp } from "react-icons/fa";
 import { MdEmail } from 'react-icons/md';
 import { motion } from "framer-motion";
 
