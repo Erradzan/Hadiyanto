@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Portfolio Ade Riska",
-  description: "Portfolio Ade Riska Aulia",
+  title: "Hadiyanto",
+  description: "Portfolio Hadiyanto",
   icons: "/support/small logo.webp",
 };
 
